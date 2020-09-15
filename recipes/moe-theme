@@ -1,1 +1,1 @@
-(moe-theme :fetcher github :repo "kuanyui/moe-theme.el")
+(moe-theme :fetcher github :repo "kuanyui/moe-theme.el" :branch "dev")
